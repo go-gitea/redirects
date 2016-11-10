@@ -8,3 +8,5 @@ gosource: code.gitea.io/gitea https://github.com/go-gitea/gitea https://github.c
 ---
 
 # Gitea
+
+This is the URL of the import path for [Gitea](http://gitea.io)
