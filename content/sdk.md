@@ -8,3 +8,5 @@ gosource: code.gitea.io/sdk https://github.com/go-gitea/gitea https://github.com
 ---
 
 # Go SDK
+
+This is the URL of the import path for the [Gitea](http://gitea.io) Go SDK
