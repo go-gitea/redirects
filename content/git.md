@@ -7,6 +7,7 @@ goimport: code.gitea.io/git git https://github.com/go-gitea/git
 gosource: code.gitea.io/git https://github.com/go-gitea/git https://github.com/go-gitea/git/tree/master{/dir} https://github.com/go-gitea/git/blob/master{/dir}/{file}#L{line}
 ---
 
-# Git - A Go module for Git access through shell
-This is the URL of the import path for the 
+# Git - Git access through shell
+
+This is the URL of the import path for the
 [Git](http://github.com/go-gitea/git).
