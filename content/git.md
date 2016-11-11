@@ -3,8 +3,10 @@ date: "2016-11-08T16:00:00+02:00"
 draft: false
 title: "Git"
 weight: 10
-goimport: code.gitea.io/gitea git https://github.com/go-gitea/gitea
-gosource: code.gitea.io/gitea https://github.com/go-gitea/gitea https://github.com/go-gitea/gitea/tree/master{/dir} https://github.com/go-gitea/gitea/blob/master{/dir}/{file}#L{line}
+goimport: code.gitea.io/git git https://github.com/go-gitea/git
+gosource: code.gitea.io/git https://github.com/go-gitea/git https://github.com/go-gitea/git/tree/master{/dir} https://github.com/go-gitea/git/blob/master{/dir}/{file}#L{line}
 ---
 
-# Git
+# Git - A Go module for Git access through shell
+This is the URL of the import path for the 
+[Git](http://github.com/go-gitea/git).
