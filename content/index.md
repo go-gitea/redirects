@@ -1,9 +1,12 @@
 ---
 date: "2016-11-08T16:00:00+02:00"
-draft: false
 title: "Code"
-weight: 10
-type: "index"
+weight: 0
+toc: false
+draft: false
+type: "page"
 ---
 
-# Index
+# Code
+
+We are using custom Go import paths, this is comparable with the functionality delivered via gopkg.in, this gives us the flexibility to change the code hosting at any point in time in the case we want to start dogfooding ourself with hosting Gitea on Gitea.
