@@ -5,6 +5,7 @@ weight: 20
 toc: false
 draft: false
 type: "page"
+menu: "sidebar"
 goimport: "code.gitea.io/sdk git https://github.com/go-gitea/go-sdk"
 gosource: "code.gitea.io/sdk https://github.com/go-gitea/go-sdk https://github.com/go-gitea/go-sdk/tree/master{/dir} https://github.com/go-gitea/go-sdk/blob/master{/dir}/{file}#L{line}"
 ---
