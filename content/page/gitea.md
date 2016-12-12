@@ -4,7 +4,6 @@ title: "Gitea"
 weight: 10
 toc: false
 draft: false
-type: "page"
 menu: "sidebar"
 goimport: "code.gitea.io/gitea git https://github.com/go-gitea/gitea"
 gosource: "code.gitea.io/gitea https://github.com/go-gitea/gitea https://github.com/go-gitea/gitea/tree/master{/dir} https://github.com/go-gitea/gitea/blob/master{/dir}/{file}#L{line}"
