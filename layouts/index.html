@@ -10,12 +10,6 @@
 			{{ range where .Site.Pages "Type" "index" }}
 				{{ .Content }}
 			{{ end }}
-
-			{{ if .Site.DisqusShortname }}
-				<div class="col-xs-12">
-					{{ partial "disqus.html" . }}
-				</div>
-			{{ end }}
 		</div>
 	</div>
 </div>
