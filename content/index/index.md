@@ -4,6 +4,7 @@ title: "Code"
 weight: 0
 toc: false
 draft: false
+url: "/"
 ---
 
 # Code
