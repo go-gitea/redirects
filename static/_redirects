@@ -3,3 +3,4 @@ https://gitea-code.netlify.com/* https://code.gitea.io/:splat 302!
 /gitea/* /gitea/ 302!
 /sdk/* /sdk/ 302!
 /git/* /git/ 302!
+/tea/* /tea/ 302!
