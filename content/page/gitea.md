@@ -5,10 +5,10 @@ weight: 10
 toc: false
 draft: false
 menu: "sidebar"
-goimport: "code.gitea.io/gitea git https://github.com/go-gitea/gitea"
-gosource: "code.gitea.io/gitea https://github.com/go-gitea/gitea https://github.com/go-gitea/gitea/tree/master{/dir} https://github.com/go-gitea/gitea/blob/master{/dir}/{file}#L{line}"
+goimport: "code.gitea.io/gitea git https://gitea.com/gitea/gitea"
+gosource: "code.gitea.io/gitea https://gitea.com/gitea/gitea https://gitea.com/gitea/gitea/tree/master{/dir} https://gitea.com/gitea/gitea/blob/master{/dir}/{file}#L{line}"
 ---
 
 # Gitea - Git with a cup of tea
 
-This is the URL of the import path for [Gitea](http://github.com/go-gitea/gitea).
+This is the URL of the import path for [Gitea](https://gitea.com/gitea/gitea).
