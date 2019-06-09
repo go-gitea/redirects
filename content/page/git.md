@@ -5,10 +5,10 @@ weight: 30
 toc: false
 draft: false
 menu: "sidebar"
-goimport: "code.gitea.io/git git https://github.com/go-gitea/git"
-gosource: "code.gitea.io/git https://github.com/go-gitea/git https://github.com/go-gitea/git/tree/master{/dir} https://github.com/go-gitea/git/blob/master{/dir}/{file}#L{line}"
+goimport: "code.gitea.io/git git https://gitea.com/gitea/git"
+gosource: "code.gitea.io/git https://gitea.com/gitea/git https://gitea.com/gitea/git/tree/master{/dir} https://gitea.com/gitea/git/blob/master{/dir}/{file}#L{line}"
 ---
 
 # Git - Git access through shell
 
-This is the URL of the import path for our [Git module](http://github.com/go-gitea/git).
+This is the URL of the import path for our [Git module](https://gitea.com/gitea/git).
